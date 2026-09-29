@@ -5,7 +5,7 @@
       "username": "tranminhkhoa",
       "email": "khoa.tran@example.com",
       "description": "Backend developer chuyên Node.js và PostgreSQL",
-      "avatar_url": "https://i.pravatar.cc/300?img=1",
+      "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
       "hobby": "đọc sách, chạy bộ, nghe nhạc"
     },
     {
@@ -13,7 +13,7 @@
       "username": "phamthuha",
       "email": "ha.pham@example.com",
       "description": "Sinh viên năm cuối UEH, ngành Hệ thống thông tin",
-      "avatar_url": "https://i.pravatar.cc/300?img=2",
+      "avatar_url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
       "hobby": "chơi game, xem phim, nấu ăn"
     },
     {
@@ -21,8 +21,56 @@
       "username": "lehoangnam",
       "email": "nam.le@example.com",
       "description": "Fullstack developer với React và Spring Boot",
-      "avatar_url": "https://i.pravatar.cc/300?img=3",
+      "avatar_url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
       "hobby": "gym, chụp ảnh, đạp xe"
+    },
+    {
+      "id": 4,
+      "username": "nguyenminhtri",
+      "email": "tri.nguyen@example.com",
+      "description": "Frontend developer chuyên React và TypeScript",
+      "avatar_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7",
+      "hobby": "vẽ, nghe nhạc, chơi game"
+    },
+    {
+      "id": 5,
+      "username": "voquynhanh",
+      "email": "anh.vo@example.com",
+      "description": "Sinh viên ngành Công nghệ thông tin, yêu thích thiết kế UI/UX",
+      "avatar_url": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+      "hobby": "đọc truyện, chụp ảnh, du lịch"
+    },
+    {
+      "id": 6,
+      "username": "dangkhanhlinh",
+      "email": "linh.dang@example.com",
+      "description": "Data Analyst sử dụng Python và Power BI",
+      "avatar_url": "https://images.unsplash.com/photo-1551836022-d5d88e9218df",
+      "hobby": "xem phim, nghe nhạc, cà phê"
+    },
+    {
+      "id": 7,
+      "username": "buituananh",
+      "email": "anh.bui@example.com",
+      "description": "Mobile developer chuyên Android và Kotlin",
+      "avatar_url": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
+      "hobby": "đạp xe, bóng đá, công nghệ"
+    },
+    {
+      "id": 8,
+      "username": "hoangngocmai",
+      "email": "mai.hoang@example.com",
+      "description": "Sinh viên ngành Kinh doanh số, quan tâm đến thương mại điện tử",
+      "avatar_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "hobby": "mua sắm, xem phim, nấu ăn"
+    },
+    {
+      "id": 9,
+      "username": "phanquocviet",
+      "email": "viet.phan@example.com",
+      "description": "DevOps Engineer chuyên Docker và AWS",
+      "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "hobby": "chơi guitar, chạy bộ, du lịch"
     }
   ]
 }
