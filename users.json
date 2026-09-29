@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "tranminhkhoa",
+      "email": "khoa.tran@example.com",
+      "description": "Backend developer chuyên Node.js và PostgreSQL",
+      "avatar_url": "https://i.pravatar.cc/300?img=1",
+      "hobby": "đọc sách, chạy bộ, nghe nhạc"
+    },
+    {
+      "id": 2,
+      "username": "phamthuha",
+      "email": "ha.pham@example.com",
+      "description": "Sinh viên năm cuối UEH, ngành Hệ thống thông tin",
+      "avatar_url": "https://i.pravatar.cc/300?img=2",
+      "hobby": "chơi game, xem phim, nấu ăn"
+    },
+    {
+      "id": 3,
+      "username": "lehoangnam",
+      "email": "nam.le@example.com",
+      "description": "Fullstack developer với React và Spring Boot",
+      "avatar_url": "https://i.pravatar.cc/300?img=3",
+      "hobby": "gym, chụp ảnh, đạp xe"
+    }
+  ]
+}
